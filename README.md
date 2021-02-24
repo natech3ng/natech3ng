@@ -1,16 +1,91 @@
-### Hi there 👋
+<!-- Don't remove this --- https://github.com/nc-aura -->
 
-<!--
-**nc-aura/nc-aura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- links to social media icons -->
+<!-- no need to change these -->
 
-Here are some ideas to get you started:
+<!-- icons  -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[1.1]: https://github.com/nc-aura/nc-aura/blob/master/assets/icons/icons8-linkedin-48.png (linkedin icon with padding)
+[2.1]: https://github.com/nc-aura/nc-aura/blob/master/assets/icons/icons8-github-48.png (github icon with padding)
+[3.1]: https://github.com/nc-aura/nc-aura/blob/master/assets/icons/icons8-twitter-48.png (twitter icon with padding)
+[4.1]: https://github.com/nc-aura/nc-aura/blob/master/assets/icons/icons8-medium-new-48.png (medium icon with padding)
+[5.1]: https://github.com/nc-aura/nc-aura/blob/master/assets/icons/icons8-stack-overflow-48.png (stackoverflow icon with padding)
+
+<!-- links to my social media accounts -->
+
+[1]: https://www.linkedin.com/in/nate-cheng/
+[2]: https://github.com/nc-aura
+[3]: https://twitter.com/NateC33
+[4]: https://medium.com/@natecheng
+[5]: https://stackoverflow.com/users/5067344/nate-cheng
+
+<!-- Don't remove this --- https://github.com/nc-aura -->
+
+
+<!-- section - intro -->
+
+# ❤ to Build - Software Engineer & Enthusiast!
+
+<!-- section - intro -->
+
+<!-- section - social media icons -->
+
+[![linkedin nc-aura][1.1]][1]
+[![github nc-aura][2.1]][2]
+[![twitter nc-aura][3.1]][3]
+[![medium nc-aura][4.1]][4]
+[![stackoverflow nc-aura][5.1]][5]
+
+<!-- section - social media icons -->
+
+ ---
+
+<!-- section - skills -->
+
+## I work on .. 💻
+
+Javscript . Typescript 
+
+Microservices . Docker . AWS Services
+
+Postgresql . DynamoDB
+
+
+<!-- section - skills -->
+
+<!-- section - job details -->
+
+## On the job .. 💯
+
+<!-- section - job details -->
+
+
+<!-- section - interests -->
+
+## My Absolute Favorites .. 💖
+
+🦄 I love _CODING_
+
+👨‍💻 I _BUILD_ resilient apps & services
+
+📰 Reading & writing _TECH BLOGS_
+
+🍕 _HACKATHONS_ & problem solving
+
+<!-- section - interests -->
+
+<!-- section - blogs -->
+
+<!-- section - social media icons -->
+
+[![linkedin nc-aura][1.1]][1]
+[![github nc-aura][2.1]][2]
+[![twitter nc-aura][3.1]][3]
+[![medium nc-aura][4.1]][4]
+[![stackoverflow nc-aura][5.1]][5]
+
+<!-- section - social media icons -->
+
+<p align='center'>
+<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=nc-aura.visitor-badge">
+ <p/>
