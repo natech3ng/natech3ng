@@ -47,15 +47,14 @@ Javscript . Typescript
 Microservices . Docker . AWS Services
 
 Postgresql . DynamoDB
-
+<!--
 ## Without a doubt .. 💯
 
 🦄 &nbsp; I love _CODING_
 
 👨‍💻   &nbsp;&nbsp;I _BUILD_ resilient apps & services
-&nbsp;
-&nbsp;
 
+-->
 
 <p align='center'>
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=nc-aura.visitor-badge">
