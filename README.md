@@ -53,8 +53,8 @@ Postgresql . DynamoDB
 🦄 &nbsp; I love _CODING_
 
 👨‍💻   &nbsp;&nbsp;I _BUILD_ resilient apps & services
-
-
+&nbsp;
+&nbsp;
 <!-- section - social media icons -->
 
 [![linkedin nc-aura][1.1]][1]
