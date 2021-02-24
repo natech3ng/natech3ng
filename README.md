@@ -55,15 +55,7 @@ Postgresql . DynamoDB
 👨‍💻   &nbsp;&nbsp;I _BUILD_ resilient apps & services
 &nbsp;
 &nbsp;
-<!-- section - social media icons -->
 
-[![linkedin nc-aura][1.1]][1]
-[![github nc-aura][2.1]][2]
-[![twitter nc-aura][3.1]][3]
-[![medium nc-aura][4.1]][4]
-[![stackoverflow nc-aura][5.1]][5]
-
-<!-- section - social media icons -->
 
 <p align='center'>
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=nc-aura.visitor-badge">
