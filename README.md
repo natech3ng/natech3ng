@@ -40,7 +40,7 @@
 
 <!-- section - skills -->
 
-## I abtolutely love .. 💖
+## I absolutely love .. 💖
 
 Javscript . Typescript 
 
