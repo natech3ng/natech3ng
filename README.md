@@ -21,9 +21,6 @@
 
 <!-- Don't remove this --- https://github.com/nc-aura -->
 
-
-<!-- section - intro -->
-
 # ❤ to Build - Software Engineer & Enthusiast!
 
 <!-- section - intro -->
@@ -38,11 +35,11 @@
 
 <!-- section - social media icons -->
 
- ---
+### Hey 👋🏽, I'm [Nate!](https://www.natecheng.me) 
 
 <!-- section - skills -->
 
-## I work on .. 💻
+## I abtolutely love .. 💖
 
 Javscript . Typescript 
 
@@ -51,30 +48,9 @@ Microservices . Docker . AWS Services
 Postgresql . DynamoDB
 
 
-<!-- section - skills -->
-
-<!-- section - job details -->
-
-## On the job .. 💯
-
-<!-- section - job details -->
-
-
-<!-- section - interests -->
-
-## My Absolute Favorites .. 💖
-
 🦄 I love _CODING_
-
 👨‍💻 I _BUILD_ resilient apps & services
 
-📰 Reading & writing _TECH BLOGS_
-
-🍕 _HACKATHONS_ & problem solving
-
-<!-- section - interests -->
-
-<!-- section - blogs -->
 
 <!-- section - social media icons -->
 
