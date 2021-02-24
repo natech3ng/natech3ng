@@ -49,7 +49,7 @@ Postgresql . DynamoDB
 
 ## Without a doubt .. 💯
 
-🦄 I love _CODING_
+🦄  I love _CODING_
 
 👨‍💻 I _BUILD_ resilient apps & services
 
