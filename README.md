@@ -1,3 +1,4 @@
+
 <!-- Don't remove this --- https://github.com/nc-aura -->
 
 <!-- links to social media icons -->
@@ -49,9 +50,9 @@ Postgresql . DynamoDB
 
 ## Without a doubt .. 💯
 
-🦄    I love _CODING_
+🦄 &nbsp; I love _CODING_
 
-👨‍💻   I _BUILD_ resilient apps & services
+👨‍💻   &nbsp;&nbsp;I _BUILD_ resilient apps & services
 
 
 <!-- section - social media icons -->
