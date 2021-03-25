@@ -40,13 +40,11 @@
 
 <!-- section - skills -->
 
-## I absolutely love .. 💖
+## I absolutely in love with .. 💖
 
-Javscript . Typescript 
+Javscript . Typescript | Microservices . Docker . AWS Services | Postgresql . DynamoDB
 
-Microservices . Docker . AWS Services
-
-Postgresql . DynamoDB
+![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=nc-aura)
 <!--
 ## Without a doubt .. 💯
 
