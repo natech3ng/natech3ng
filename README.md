@@ -40,7 +40,7 @@
 
 <!-- section - skills -->
 
-## I absolutely in love with .. 💖
+## I'm absolutely in love with .. 💖
 
 Javscript . Typescript | Microservices . Docker . AWS Services | Postgresql . DynamoDB
 
