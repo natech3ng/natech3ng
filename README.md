@@ -1,5 +1,5 @@
 
-<!-- Don't remove this --- https://github.com/natech3ng -->
+<!-- Don't remove this --- https://github.com/nch3ng -->
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
@@ -15,7 +15,7 @@
 <!-- links to my social media accounts -->
 
 [1]: https://www.linkedin.com/in/nate-cheng/
-[2]: https://github.com/natech3ng
+[2]: https://github.com/nch3ng
 [3]: https://twitter.com/NateC33
 [4]: https://medium.com/@natecheng
 [5]: https://stackoverflow.com/users/5067344/nate-cheng
