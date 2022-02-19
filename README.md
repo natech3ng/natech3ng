@@ -20,7 +20,7 @@
 [4]: https://medium.com/@natecheng
 [5]: https://stackoverflow.com/users/5067344/nate-cheng
 
-<!-- Don't remove this --- https://github.com/natech3ng -->
+<!-- Don't remove this --- https://github.com/nch3ng -->
 
 # ❤ to Build - Software Engineer & Enthusiast!
 
@@ -28,11 +28,11 @@
 
 <!-- section - social media icons -->
 
-[![linkedin natech3ng][1.1]][1]
-[![github natech3ng][2.1]][2]
-[![twitter natech3ng][3.1]][3]
-[![medium natech3ng][4.1]][4]
-[![stackoverflow natech3ng][5.1]][5]
+[![linkedin nch3ng][1.1]][1]
+[![github nch3ng][2.1]][2]
+[![twitter nch3ng][3.1]][3]
+[![medium nch3ng][4.1]][4]
+[![stackoverflow nch3ng][5.1]][5]
 
 <!-- section - social media icons -->
 
@@ -44,7 +44,7 @@
 
 Javscript . Typescript | Microservices . Docker . AWS Services | Postgresql . DynamoDB
 
-![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=natech3ng)
+![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=nch3ng)
 <!--
 ## Without a doubt .. 💯
 
