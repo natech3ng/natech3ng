@@ -55,6 +55,8 @@ Javscript . Typescript | Microservices . Docker . AWS Services | Postgresql . Dy
 
 -->
 
+<!--
 <p align='center'>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nch3ng.visitor-badge)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 <p/>
+-->
