@@ -45,8 +45,8 @@
 Javscript . Typescript | Microservices . Docker . AWS Services | Postgresql . DynamoDB
 
 ![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=nch3ng&show_icons=true)
-[![Leetcode Stats](https://leetcard.jacoblin.cool/nate10)](https://leetcode.com/nate10)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nch3ng)
+![Leetcode Stats](https://leetcard.jacoblin.cool/nate10)](https://leetcode.com/nate10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nch3ng)
 <!--
 ## Without a doubt .. 💯
 
